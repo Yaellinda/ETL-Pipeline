@@ -1,4 +1,6 @@
 # ETL Pipeline v1
+## Introduction
+This code contains the steps to build an ETL Pipeline
 
 1.Clone the repository, and go to week19 folder
 ''''
